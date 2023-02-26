@@ -1,0 +1,15 @@
+﻿  3DPlaneScene.cpp
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(130,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(585,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(586,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(591,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(592,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(593,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(594,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(625,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(627,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(1298,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(1309,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(1330,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe\Documents\SNHU\3DPlaneScene\3DPlaneScene\3DPlaneScene.cpp(1451,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  3DPlaneScene.vcxproj -> C:\Users\Joe\Documents\SNHU\3DPlaneScene\Debug\3DPlaneScene.exe
